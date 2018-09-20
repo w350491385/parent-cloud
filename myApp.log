@@ -1,7 +1,0 @@
-2018-09-20 22:42:50,986 INFO [main] com.Test [Test.java:10] info
-2018-09-20 22:42:50,988 ERROR [main] com.Test [Test.java:11] ERROR
-2018-09-20 22:48:22,796 INFO [main] com.Test [Test.java:12] info
-2018-09-20 22:48:22,797 ERROR [main] com.Test [Test.java:13] ERROR
-2018-09-20 22:48:53,924 INFO [main 1537454933764] com.Test [Test.java:12] info
-2018-09-20 22:48:53,926 ERROR [main 1537454933764] com.Test [Test.java:13] ERROR
-2018-09-20 22:49:54,600 ERROR [main 1537454994449] com.Test [Test.java:13] ERROR
